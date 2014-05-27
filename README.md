@@ -7,5 +7,4 @@ This is a simple CMS for private people or small companies
 
 Test for pt hook.
 
- Test2
-Test3
+[#72065400] Test
