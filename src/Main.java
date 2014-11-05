@@ -5,8 +5,8 @@ public class aga {
     
   }
   
-  public setValue(String x) {
-    System.out.println("blablab=" + x);
+  public void setValue(String x) {
+    System.out.println("aaablablab=" + x);
     
   }
 
